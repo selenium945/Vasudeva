@@ -57,7 +57,9 @@ public class DataDrivenTesting {
 		
 		wb.close();
 		
+		//appLogout
 		app.appLogout();
+		//appClose
 		app.appClose();
 
 	}
